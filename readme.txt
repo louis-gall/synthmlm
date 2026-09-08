@@ -1,6 +1,6 @@
 Thanks for downloading SynthMLM. These repository contains a few files that demonstrate the use cases of SynthMLM.
 
-Before use, download all files and foldersm and put them all in the same parent folder. 
+Before use, download all files and folders and put them all in the same parent folder. 
 
 Two additional files are needed: 'nocodazole_1' and the model file 'synthmlm_analysis.jld2' which can be obtained from this link:
 
